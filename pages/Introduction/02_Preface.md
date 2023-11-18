@@ -10,4 +10,4 @@ Baktash and Suraya are not just fictitious characters; they represent countless 
 
 This story was written in accordance with the taste and understanding of the readers, and with social issues in mind. It addresses problems arising from social norms and the difficulties of two lovers in reaching each other.
 
-~ Sadaf Zahra
+~ Zahra Sadaf

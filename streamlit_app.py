@@ -35,3 +35,8 @@ from PIL import Image
 
 image = Image.open('Terror&Love-Book Cover.png')
 st.image(image)
+
+from streamlit_extras.switch_page_button import switch_page
+next_page = st.button("Next")
+if next_page:
+  switch_page("preface")
